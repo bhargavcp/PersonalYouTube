@@ -10,11 +10,13 @@ Dependencies will take a couple of minutes to install. Get some coffee in the me
 **_Important step before you can actually run the app._**
 ```
 You will need a YouTube API key. If you already know how to get one, skip the following steps.
+
 First time getting a YouTube API key? Perform the following steps: 
 
 If you do not want to read the following OR get stuck at any of the steps visit:
 https://developers.google.com/youtube/v3/getting-started and follow along.
 
+HOWEVER, if you trust me then:
 - Visit: https://console.developers.google.com/apis/dashboard.
 - Accept the terms.
 - The page will initially be loaded with commonly used APIs like Gmail, Google Drive.
