@@ -15,7 +15,7 @@ First time getting a YouTube API key? Perform the following steps:
 If you do not want to read the following OR get stuck at any of the steps visit:
 https://developers.google.com/youtube/v3/getting-started and follow along.
 
-- Visit: [I'm an inline-style link](https://console.developers.google.com/apis/dashboard).
+- Visit: https://console.developers.google.com/apis/dashboard.
 - Accept the terms.
 - The page will initially be loaded with commonly used APIs like Gmail, Google Drive.
 - Click on the 'View all' link to view more services.
