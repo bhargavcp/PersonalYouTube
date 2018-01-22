@@ -1,6 +1,9 @@
-**_Steps to run the App on your local_**
+**_Lightweight Personal YouTube goodness._**
+
+**_Steps to run the App on your local._**
 ```
 Clone the repository (duh!)
+Open your terminal.
 > cd {repo_directory}
 > npm i OR yarn
 
@@ -9,17 +12,17 @@ Dependencies will take a couple of minutes to install. Get some coffee in the me
 
 **_Important step before you can actually run the app._**
 ```
-You will need a YouTube API key. If you already know how to get one, skip the following steps.
+You will require a YouTube API key. If you already know how to get one, skip the following steps.
 
 First time getting a YouTube API key? Perform the following steps: 
 
-If you do not want to read the following OR get stuck at any of the steps visit:
+If you do not want to read the detailed steps OR get stuck at any of the steps, visit the following link, it is as easy as 1-2-3:
 https://developers.google.com/youtube/v3/getting-started and follow along.
 
-HOWEVER, if you trust me:
+HOWEVER, if you choose to trust me:
 - Visit: https://console.developers.google.com/apis/dashboard.
 - Accept the terms.
-- The page will initially be loaded with commonly used APIs like Gmail, Google Drive.
+- The page will initially be loaded with commonly used services like Gmail, Google Drive.
 - Click on the 'View all' link to view more services.
 - Scroll down a bit and click on the 'YouTube Data API v3' card.
 - On the next page, click on 'Create'.
@@ -28,7 +31,7 @@ HOWEVER, if you trust me:
 - This enables you to use the YT API. Finally to get the key, click on 'Create Credentials'.
 - For the question: 'Where will you be calling the API from?' choose 'Web browser (JavaScript)'
 - For the question 'What data you will be accessing?' choose 'Public data'.
-- Click on the button below the questions and there you would get your API key, copy it and perform the next steps.
+- Click on the button below the questions and there you would get your API key, copy it and go to the next step.
 ```
 
 **_Once you have the API key._**
@@ -40,7 +43,7 @@ HOWEVER, if you trust me:
 
 **_Finally, running the App._**
 ```
-After performing all the steps above:
+After performing all the steps above, go back to your terminal, type the dollowing and hit enter:
 > npm start OR yarn start
 ```
 
