@@ -42,7 +42,7 @@ Your key should look something like this (this is a dummy key, don't try to use 
 ```
 - Open config.js inside the 'config' directory.
 - Replace the text 'REPLACE_THIS_TEXT_WITH_YOUR_KEY' with your API key.
-- Note: The key should be wrapped in quotes like this: 'Axx123xzzzyyy'
+- Note: The key should be wrapped in quotes like this: 'AEztSyClt2npqMRxid7V_PnQ32gVuGXw1PqACms'
 ```
 
 **_Finally, running the App._**
