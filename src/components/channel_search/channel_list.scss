@@ -1,0 +1,22 @@
+.row{
+  margin-top: 15px;
+  margin-bottom: 30px;
+
+  .channel-list {
+    width: 350px;
+    float: right;
+
+    .list-group {
+      margin-bottom: 0 !important;
+    }
+  }
+
+  .list-group-item{
+    cursor: pointer;
+  }
+
+  .list-group-item:hover{
+    background-color: #eee;
+  }
+}
+

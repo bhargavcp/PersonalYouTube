@@ -1,0 +1,18 @@
+.carousel-container{
+
+  margin-top: 20px;
+
+  .slick-prev:before,
+  .slick-next:before {
+    color: #A9A9A9;
+  }
+
+  .slick-prev,
+  .slick-next {
+    top: 100px;
+  }
+
+  img{
+    width: 100%;
+  }
+}
