@@ -76,7 +76,7 @@ class AboutModal extends Component {
                         </li>
                         <li><u>Removing channel from subscriptions</u>: Just click on the 'x' next to the channel name.
                         </li>
-                        <li>Why 5 channels you ask? Well.. I really don't know why.. But I may add the functionality to have an infinite subscription list.
+                        <li>Why 5 channels you ask? Well.. I really don't know why. But I may add the functionality to have an infinite subscription list.
                             Until then, please live your life 5 channels at a time :)
                         </li>
                     </ul>
