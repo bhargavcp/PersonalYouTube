@@ -44,10 +44,9 @@ After performing all the steps above:
 
 **_A quick note about tests._**
 ```
-Currently the project does not have any apps.
-I tried wiring up Mocha tests, however, 
-few of the React component libraries used in the project 
-do not play well with Mocha tests. This is a known issue with the libraries.
+Currently the project does not have any tests.
+I tried wiring up Mocha tests, however, few of the React component libraries used in the project 
+do not play well with Mocha tests. This is a known issue with those libraries.
 Solution is to use Jest. However, currently I am learning how to use Jest
-and writing tests would take some time. It is a priority though!  
+and this would take some time. It is a priority though!  
 ```
